@@ -1,0 +1,335 @@
+{
+  "v": 1,
+  "engine": "1.0.0",
+  "build": {
+    "at": "2026-11-17T11:47:55Z",
+    "version": "2027.1.0",
+    "commit": "fb261ae"
+  },
+  "lang": "ar",
+  "dir": "rtl",
+  "totals": {
+    "decks": 1,
+    "slides": 48,
+    "words": 3553,
+    "notes": 44,
+    "notes_ratio": 0.92,
+    "activities": 6,
+    "styles": 8,
+    "slide_minutes": null,
+    "components": {
+      "cards": 37,
+      "pills": 9,
+      "callouts": 31,
+      "tables": 5,
+      "code": 0,
+      "tokens": 0,
+      "flows": 3,
+      "stats": 9,
+      "bars": 2,
+      "meters": 0,
+      "agendas": 1,
+      "quizzes": 6,
+      "checklists": 3,
+      "prompts": 1,
+      "chats": 3,
+      "tools": 0,
+      "traces": 0,
+      "ladders": 0,
+      "figures": 0,
+      "matrices": 0,
+      "timers": 0,
+      "columns": 27,
+      "images": 0,
+      "drawings": 0,
+      "fragments": 0
+    },
+    "minutes": 195
+  },
+  "decks": [
+    {
+      "deck": "day1",
+      "kind": "day",
+      "label": "اليوم 1",
+      "title": "من وضع الإجابة إلى وضع الإرشاد",
+      "slides": 48,
+      "words": 3553,
+      "notes": 44,
+      "notes_ratio": 0.92,
+      "activities": 6,
+      "styles": 8,
+      "slide_minutes": null,
+      "components": {
+        "cards": 37,
+        "pills": 9,
+        "callouts": 31,
+        "tables": 5,
+        "code": 0,
+        "tokens": 0,
+        "flows": 3,
+        "stats": 9,
+        "bars": 2,
+        "meters": 0,
+        "agendas": 1,
+        "quizzes": 6,
+        "checklists": 3,
+        "prompts": 1,
+        "chats": 3,
+        "tools": 0,
+        "traces": 0,
+        "ladders": 0,
+        "figures": 0,
+        "matrices": 0,
+        "timers": 0,
+        "columns": 27,
+        "images": 0,
+        "drawings": 0,
+        "fragments": 0
+      },
+      "minutes": 195,
+      "sessions": [
+        {
+          "n": 1,
+          "label": "الجلسة 1",
+          "title": "الأدلة: مكسب التدرب ليس تعلّمًا",
+          "slides": 12,
+          "words": 881,
+          "notes": 11,
+          "notes_ratio": 0.92,
+          "activities": 2,
+          "styles": 2,
+          "slide_minutes": null,
+          "components": {
+            "cards": 8,
+            "pills": 0,
+            "callouts": 8,
+            "tables": 1,
+            "code": 0,
+            "tokens": 0,
+            "flows": 1,
+            "stats": 6,
+            "bars": 1,
+            "meters": 0,
+            "agendas": 0,
+            "quizzes": 2,
+            "checklists": 1,
+            "prompts": 0,
+            "chats": 0,
+            "tools": 0,
+            "traces": 0,
+            "ladders": 0,
+            "figures": 0,
+            "matrices": 0,
+            "timers": 0,
+            "columns": 9,
+            "images": 0,
+            "drawings": 0,
+            "fragments": 0
+          },
+          "minutes": 60,
+          "lab_minutes": 35
+        },
+        {
+          "n": 2,
+          "label": "الجلسة 2",
+          "title": "أنماط تساعد وأنماط تضر",
+          "slides": 12,
+          "words": 884,
+          "notes": 11,
+          "notes_ratio": 0.92,
+          "activities": 2,
+          "styles": 6,
+          "slide_minutes": null,
+          "components": {
+            "cards": 9,
+            "pills": 6,
+            "callouts": 9,
+            "tables": 1,
+            "code": 0,
+            "tokens": 0,
+            "flows": 0,
+            "stats": 3,
+            "bars": 1,
+            "meters": 0,
+            "agendas": 0,
+            "quizzes": 2,
+            "checklists": 1,
+            "prompts": 0,
+            "chats": 2,
+            "tools": 0,
+            "traces": 0,
+            "ladders": 0,
+            "figures": 0,
+            "matrices": 0,
+            "timers": 0,
+            "columns": 7,
+            "images": 0,
+            "drawings": 0,
+            "fragments": 0
+          },
+          "minutes": 55,
+          "lab_minutes": 30
+        },
+        {
+          "n": 3,
+          "label": "الجلسة 3",
+          "title": "وضع الإرشاد وخطة الأسبوعين",
+          "slides": 18,
+          "words": 1354,
+          "notes": 16,
+          "notes_ratio": 0.89,
+          "activities": 2,
+          "styles": 0,
+          "slide_minutes": null,
+          "components": {
+            "cards": 15,
+            "pills": 0,
+            "callouts": 12,
+            "tables": 2,
+            "code": 0,
+            "tokens": 0,
+            "flows": 2,
+            "stats": 0,
+            "bars": 0,
+            "meters": 0,
+            "agendas": 0,
+            "quizzes": 2,
+            "checklists": 1,
+            "prompts": 1,
+            "chats": 1,
+            "tools": 0,
+            "traces": 0,
+            "ladders": 0,
+            "figures": 0,
+            "matrices": 0,
+            "timers": 0,
+            "columns": 8,
+            "images": 0,
+            "drawings": 0,
+            "fragments": 0
+          },
+          "minutes": 80,
+          "lab_minutes": 40
+        }
+      ]
+    }
+  ],
+  "coverage": [
+    {
+      "id": "LO1",
+      "text": "يميّز بين أنماط التفاعل التي تبني الفهم وتلك التي تحل محله، مستشهدًا بأدلة التجارب، استنادًا إلى ثمانية سجلات تفاعل مجهولة الهوية وثلاثة ملخصات لتجارب",
+      "level": "Awareness",
+      "slides": [
+        "day1#case-riwaq",
+        "day1#two-different-questions",
+        "day1#math-trial-design",
+        "day1#math-trial-numbers",
+        "day1#crutch-behaviour",
+        "day1#check-reading-the-pair",
+        "day1#designed-tutor-physics",
+        "day1#effort-feels-worse",
+        "day1#fluency-signal",
+        "day1#evidence-limits",
+        "day1#check-feeling-of-learning",
+        "day1#coding-trial",
+        "day1#six-patterns-bars",
+        "day1#patterns-that-replace",
+        "day1#patterns-that-build",
+        "day1#same-first-message",
+        "day1#check-name-the-pattern",
+        "day1#polished-checked-less",
+        "day1#review-polished-like-draft",
+        "day1#who-is-thinking",
+        "day1#check-polished-report",
+        "day1#how-you-are-assessed"
+      ],
+      "activities": [
+        "day1#check-reading-the-pair-q1",
+        "day1#check-feeling-of-learning-q1",
+        "day1#check-name-the-pattern-q1",
+        "day1#check-polished-report-q1"
+      ],
+      "sessions": [
+        "day1/1",
+        "day1/2"
+      ],
+      "labs": [
+        "1.1",
+        "1.2"
+      ],
+      "questions": [
+        "q-patterns-01",
+        "q-patterns-02",
+        "q-patterns-03",
+        "q-patterns-04",
+        "q-patterns-05"
+      ],
+      "covered": true
+    },
+    {
+      "id": "LO2",
+      "text": "يهيئ مساعدًا ليقدم تلميحًا واحدًا في كل مرة، ويطلب من المتعلم إعادة الشرح، ويحجب الإجابات النهائية، على مسائل من مقرر المتعلم أو عمله",
+      "level": "Applied",
+      "slides": [
+        "day1#three-rules",
+        "day1#instructions-anatomy",
+        "day1#good-vs-leaky",
+        "day1#test-under-pressure",
+        "day1#study-modes-limits",
+        "day1#check-which-rule-leaks",
+        "day1#disclosure-integrity",
+        "day1#how-you-are-assessed"
+      ],
+      "activities": [
+        "day1#check-which-rule-leaks-q1"
+      ],
+      "sessions": [
+        "day1/3"
+      ],
+      "labs": [
+        "1.3"
+      ],
+      "questions": [
+        "q-tutor-01",
+        "q-tutor-02",
+        "q-tutor-03",
+        "q-tutor-04",
+        "q-tutor-05"
+      ],
+      "covered": true
+    },
+    {
+      "id": "LO3",
+      "text": "يعدّ خطة تدرب لأسبوعين تبدأ فيها المحاولات الأولى دون ذكاء اصطناعي، مع ممارسة الاسترجاع والتباعد، استنادًا إلى الجدول الزمني للمتعلم نفسه",
+      "level": "Applied",
+      "slides": [
+        "day1#ai-policy-today",
+        "day1#fluency-signal",
+        "day1#ai-off-first",
+        "day1#retrieval-beats-rereading",
+        "day1#spacing",
+        "day1#two-week-plan-shape",
+        "day1#disclosure-integrity",
+        "day1#check-build-the-week",
+        "day1#how-you-are-assessed"
+      ],
+      "activities": [
+        "day1#check-build-the-week-q1"
+      ],
+      "sessions": [
+        "day1/3"
+      ],
+      "labs": [
+        "1.3"
+      ],
+      "questions": [
+        "q-plan-01",
+        "q-plan-02",
+        "q-plan-03",
+        "q-plan-04",
+        "q-plan-05"
+      ],
+      "covered": true
+    }
+  ]
+}
